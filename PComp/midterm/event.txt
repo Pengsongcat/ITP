@@ -1,0 +1,26 @@
+### Rules：
+
+**Mary: blue doll
+Tom: pink doll**
+
+**(Event 1-8 are generated in random order)**
+
+**Event Start (0):** Rock the cradle to start the game.
+
+**Event 1:** If Mary screams, hold Mary’s hand.
+
+**Event 2:** If Tom screams, cover Tom’s nose.
+
+**Event 3:** If Mary’s eyes flicker, press Mary’s heart five times.
+
+**Event 4:** If Tom’s eyes flicker, hold Tom’s hand.
+
+**Event 5:** If Mary sneezes, pinch Mary’s nose.
+
+**Event 6:** If Tom is choking, press Tom’s heart five times.
+
+**Event 7:** If Mary’s nose is blocked, grab Mary’s foot.
+
+**Event 8:** If Tom sneezes, grab Tom’s foot.
+
+**Event Last (9):** If they cry together, rock the cradle.
