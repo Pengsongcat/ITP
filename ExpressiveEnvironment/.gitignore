@@ -1,0 +1,10 @@
+# Unity-generated files (recreated locally by Unity)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+
+# Never commit local API credentials
+**/apiKeyGemini.txt
